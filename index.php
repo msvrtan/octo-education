@@ -11,4 +11,6 @@ $obj_user->active = 0;
 $obj_user->save();
 
 
+echo $obj_user->username . PHP_EOL  ;
+
 ?>
