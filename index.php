@@ -1,6 +1,6 @@
 <?php
 
-include 'User.class.php'
+include 'User.class.php';
 
 $obj_user = new User();
 
