@@ -1,6 +1,8 @@
 <?php
 
-class User
+include base_object.class.php
+
+class User extend base_object
 {
     public $user_id;
     public $username;
